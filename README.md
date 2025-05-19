@@ -3,7 +3,7 @@ The Cosmos Hub is the first of many interconnected blockchains powered by the in
 
 # 🌟 CosmosHub Setup & Upgrade Scripts
 
-A collection of automated scripts for setting up and upgrading Lava nodes on **Mainnet (`cosmoshub-4`)**.
+A collection of automated scripts for setting up and upgrading CosmosHub nodes on **Mainnet (`cosmoshub-4`)**.
 
 ---
 
